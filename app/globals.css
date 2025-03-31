@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-ovo: "Ovo", serif;
+}
+
+@layer base {
+  body {
+    @apply text-black;
+  }
+}
