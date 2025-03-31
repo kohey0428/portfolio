@@ -15,9 +15,9 @@ export default function Home() {
       <Header />
       <About />
       <Work />
+      <History />
       <Contact />
       <Footer />
-      <History />
     </>
   );
 }
