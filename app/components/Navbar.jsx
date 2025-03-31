@@ -66,6 +66,11 @@ const Navbar = () => {
             </a>
           </li>
           <li>
+            <a href="#history" className="font-Ovo">
+              History
+            </a>
+          </li>
+          <li>
             <a href="#contact" className="font-Ovo">
               Contact me
             </a>
@@ -124,13 +129,13 @@ const Navbar = () => {
             </a>
           </li>
           <li onClick={closeMenu}>
-            <a href="#services" className="font-Ovo">
-              Services
+            <a href="#work" className="font-Ovo">
+              My Work
             </a>
           </li>
           <li onClick={closeMenu}>
-            <a href="#work" className="font-Ovo">
-              My Work
+            <a href="#history" className="font-Ovo">
+              History
             </a>
           </li>
           <li onClick={closeMenu}>
