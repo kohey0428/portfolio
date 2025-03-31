@@ -92,8 +92,9 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Frontend project",
-    description: "Web Design",
+    title: "Melulun",
+    description:
+      "Developed a web application for a client that empowers Japanese working holiday participants in Australia to easily find housing and job opportunities.",
     bgImage: "/work-1.png",
   },
 ];
